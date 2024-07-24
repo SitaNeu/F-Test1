@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PajHn83vo74=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\linan\\OneDrive\\Desktop\\Test1F#\\MyFSharpApp\\MyFSharpApp.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\linan\\.nuget\\packages\\fsharp.core\\8.0.301\\fsharp.core.8.0.301.nupkg.sha512"
+  ],
+  "logs": []
+}
